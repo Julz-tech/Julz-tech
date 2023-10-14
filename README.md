@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Julz-tech
+- 👋 Hi, I’m Pamela Julia
 - 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning java and Ruby frameworks
 - 💞️ I’m looking to collaborate on bioinformatics software 
