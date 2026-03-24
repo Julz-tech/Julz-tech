@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Pamela Julia
-- 👀 I’m interested in learning programming 
-- 🌱 I’m currently learning java and Ruby frameworks
-- 💞️ I’m looking to collaborate on bioinformatics software 
+- 👋 Hi, I’m Julia
+- 👀 I’m interested in learning programming and data analysis 
+- 🌱 I’m currently learning data analysis and cybersecurity
+- 💞️ I’m looking to collaborate on data analysis and cybersecurity 
 - 📫 How to reach me pamelajulia.w@gmail.com
 
 <!---
